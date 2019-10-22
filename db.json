@@ -1,0 +1,24 @@
+{ 
+   "data":[ 
+      { 
+         "bag":{ 
+            "bagTag":"1234567890",
+            "scannedDate":"2019-10-22T12:20:30.766Z"
+         },
+         "lastModified":"2019-10-22T12:20:30.766Z",
+         "status":25,
+         "passenger":{ 
+            "lastName":"Doe",
+            "firstName":"John"
+         },
+         "flight":{ 
+            "flightno":"EK16",
+            "depDate":"2019-10-22T12:20:30.766Z",
+            "depAirport":"LGW",
+            "arrAirport":"DXB"
+         }
+      }
+   ],
+   "code":"APBM40000",
+   "message":"Success"
+}
